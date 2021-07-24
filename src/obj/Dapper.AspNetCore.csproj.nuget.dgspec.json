@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/abdolrezabayesteh/git/dapper-asp-net-core/src/Dapper.AspNetCore.csproj": {}
+  },
+  "projects": {
+    "/home/abdolrezabayesteh/git/dapper-asp-net-core/src/Dapper.AspNetCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abdolrezabayesteh/git/dapper-asp-net-core/src/Dapper.AspNetCore.csproj",
+        "projectName": "Dapper.AspNetCore",
+        "projectPath": "/home/abdolrezabayesteh/git/dapper-asp-net-core/src/Dapper.AspNetCore.csproj",
+        "packagesPath": "/home/abdolrezabayesteh/.nuget/packages/",
+        "outputPath": "/home/abdolrezabayesteh/git/dapper-asp-net-core/src/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abdolrezabayesteh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

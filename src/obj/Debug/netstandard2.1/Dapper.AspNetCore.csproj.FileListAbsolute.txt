@@ -1,0 +1,9 @@
+/home/abdolrezabayesteh/git/dapper-asp-net-core/bin/Debug/netstandard2.1/Dapper.AspNetCore.deps.json
+/home/abdolrezabayesteh/git/dapper-asp-net-core/bin/Debug/netstandard2.1/Dapper.AspNetCore.dll
+/home/abdolrezabayesteh/git/dapper-asp-net-core/bin/Debug/netstandard2.1/Dapper.AspNetCore.pdb
+/home/abdolrezabayesteh/git/dapper-asp-net-core/obj/Debug/netstandard2.1/Dapper.AspNetCore.csproj.AssemblyReference.cache
+/home/abdolrezabayesteh/git/dapper-asp-net-core/obj/Debug/netstandard2.1/Dapper.AspNetCore.AssemblyInfoInputs.cache
+/home/abdolrezabayesteh/git/dapper-asp-net-core/obj/Debug/netstandard2.1/Dapper.AspNetCore.AssemblyInfo.cs
+/home/abdolrezabayesteh/git/dapper-asp-net-core/obj/Debug/netstandard2.1/Dapper.AspNetCore.csproj.CoreCompileInputs.cache
+/home/abdolrezabayesteh/git/dapper-asp-net-core/obj/Debug/netstandard2.1/Dapper.AspNetCore.dll
+/home/abdolrezabayesteh/git/dapper-asp-net-core/obj/Debug/netstandard2.1/Dapper.AspNetCore.pdb
