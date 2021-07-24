@@ -1,4 +1,0 @@
-C:\git\jobs.channelgate\Cymax.Dapper\obj\Debug\netstandard2.0\Cymax.Dapper.csproj.AssemblyReference.cache
-C:\git\jobs.channelgate\Cymax.Dapper\obj\Debug\netstandard2.0\Cymax.Dapper.AssemblyInfoInputs.cache
-C:\git\jobs.channelgate\Cymax.Dapper\obj\Debug\netstandard2.0\Cymax.Dapper.AssemblyInfo.cs
-C:\git\jobs.channelgate\Cymax.Dapper\obj\Debug\netstandard2.0\Cymax.Dapper.csproj.CoreCompileInputs.cache
