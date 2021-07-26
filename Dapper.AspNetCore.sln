@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.AspNetCore", ".\src\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.AspNetCore.Sample", ".\src\Dapper.AspNetCore.Sample\Dapper.AspNetCore.Sample.csproj", "{B696C6F9-BA77-4593-A333-593EB091B378}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.AspNetCore.Tests", "Dapper.AspNetCore.Tests\Dapper.AspNetCore.Tests.csproj", "{D0C6E80D-0AA0-40D7-A7DB-81BDCB4CA5B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.AspNetCore.Tests", ".\src\Dapper.AspNetCore.Tests\Dapper.AspNetCore.Tests.csproj", "{D0C6E80D-0AA0-40D7-A7DB-81BDCB4CA5B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
