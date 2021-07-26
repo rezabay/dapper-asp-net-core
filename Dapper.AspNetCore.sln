@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.AspNetCore", ".\src\Dapper.AspNetCore.csproj", "{BAD00B18-6F73-4F84-9424-F74EE4344394}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.AspNetCore", ".\src\Dapper.AspNetCore\Dapper.AspNetCore.csproj", "{BAD00B18-6F73-4F84-9424-F74EE4344394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.AspNetCore.Sample", ".\src\Dapper.AspNetCore.Sample\Dapper.AspNetCore.Sample.csproj", "{B696C6F9-BA77-4593-A333-593EB091B378}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.AspNetCore.Tests", "Dapper.AspNetCore.Tests\Dapper.AspNetCore.Tests.csproj", "{D0C6E80D-0AA0-40D7-A7DB-81BDCB4CA5B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{BAD00B18-6F73-4F84-9424-F74EE4344394}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAD00B18-6F73-4F84-9424-F74EE4344394}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAD00B18-6F73-4F84-9424-F74EE4344394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B696C6F9-BA77-4593-A333-593EB091B378}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B696C6F9-BA77-4593-A333-593EB091B378}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B696C6F9-BA77-4593-A333-593EB091B378}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B696C6F9-BA77-4593-A333-593EB091B378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C6E80D-0AA0-40D7-A7DB-81BDCB4CA5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C6E80D-0AA0-40D7-A7DB-81BDCB4CA5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C6E80D-0AA0-40D7-A7DB-81BDCB4CA5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C6E80D-0AA0-40D7-A7DB-81BDCB4CA5B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
